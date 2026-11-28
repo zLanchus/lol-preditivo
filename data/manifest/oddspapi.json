@@ -1,24 +1,24 @@
 {
   "datasets": {
     "oddspapi/calls/2026-11": {
-      "bytes": 312616,
+      "bytes": 313047,
       "columns": 5,
       "date_max": null,
       "date_min": null,
-      "fingerprint": "30a8f29824c29339b1fd5bb16b7483d68cf0d02440cca9f271362e4f30cb02a5",
+      "fingerprint": "a8f9846afed606115094e02df9b3047ec75946c461c83138524da6736e762116",
       "path": "processed/oddspapi/calls/2026-11.parquet",
-      "rows": 33,
-      "updated_at": "2026-11-28T12:03:07+00:00"
+      "rows": 40,
+      "updated_at": "2026-11-28T17:50:12+00:00"
     },
     "oddspapi/fixtures/all": {
-      "bytes": 15374,
+      "bytes": 15422,
       "columns": 14,
       "date_max": "2026-11-30T23:00:00+00:00",
       "date_min": "2026-11-14T19:40:00+00:00",
-      "fingerprint": "8ff7f80e835c5850c722f5ec4ddfe4aafe8f14db89d503f7cbd8de1586551c9f",
+      "fingerprint": "8419184d488a21bbc3cf85c1e41a0a57293520c5c41ff24484f9eafb0742aedb",
       "path": "processed/oddspapi/fixtures/all.parquet",
       "rows": 14,
-      "updated_at": "2026-11-28T12:02:37+00:00"
+      "updated_at": "2026-11-28T17:49:41+00:00"
     },
     "oddspapi/historical_odds_raw/all": {
       "bytes": 306544,
@@ -32,14 +32,14 @@
     }
   },
   "published": {
-    "oddspapi/calls/2026-11": "30a8f29824c29339b1fd5bb16b7483d68cf0d02440cca9f271362e4f30cb02a5",
-    "oddspapi/fixtures/all": "8ff7f80e835c5850c722f5ec4ddfe4aafe8f14db89d503f7cbd8de1586551c9f",
+    "oddspapi/calls/2026-11": "a8f9846afed606115094e02df9b3047ec75946c461c83138524da6736e762116",
+    "oddspapi/fixtures/all": "8419184d488a21bbc3cf85c1e41a0a57293520c5c41ff24484f9eafb0742aedb",
     "oddspapi/historical_odds_raw/all": "9995abc1f62b565ab6bd28074fc82417ca5d587248d787855ca82f67168525a7"
   },
   "source": "oddspapi",
   "status": {
-    "last_attempt": "2026-11-28T12:03:07+00:00",
-    "last_success": "2026-11-28T12:03:07+00:00",
+    "last_attempt": "2026-11-28T17:50:12+00:00",
+    "last_success": "2026-11-28T17:50:12+00:00",
     "message": "/historical-odds od184001743462132: 404 Client Error: Not Found for url: https://api.oddspapi.io/v4/historical-odds?fixtureId=od184001743462132&bookmakers=pinnacle%2Cbet365%2C1xbet&apiKey=d471f6b3-c2f4-47c8-897b-908636244e4e; /historical-odds od184001743462124: 404 Client Error: Not Found for url: https://api.oddspapi.io/v4/historical-odds?fixtureId=od184001743462124&bookmakers=pinnacle%2Cbet365%2C1xbet&apiKey=d471f6b3-c2f4-47c8-897b-908636244e4e; /historical-odds od184001743462122: 404 Client E",
     "status": "partial"
   }
