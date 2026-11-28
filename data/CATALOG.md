@@ -1,23 +1,23 @@
 # Catálogo de dados
 
-Gerado automaticamente em 2026-11-28 12:07 UTC a partir de `data/manifest/`. Não edite à mão.
+Gerado automaticamente em 2026-11-28 17:53 UTC a partir de `data/manifest/`. Não edite à mão.
 
 ## Fontes
 
 | Fonte | Status | Última tentativa | Último sucesso | Observação |
 |---|---|---|---|---|
-| ddragon | ok | 2026-11-28T12:02:37+00:00 | 2026-11-28T12:02:37+00:00 |  |
-| esportsbench | ok | 2026-11-28T12:02:35+00:00 | 2026-11-28T12:02:35+00:00 |  |
-| leaguepedia | ok | 2026-11-28T12:06:40+00:00 | 2026-11-28T12:06:40+00:00 |  |
-| leaguepedia_gcd | ok | 2026-11-28T12:03:55+00:00 | 2026-11-28T12:03:55+00:00 |  |
-| lolesports | ok | 2026-11-28T12:03:45+00:00 | 2026-11-28T12:03:45+00:00 |  |
+| ddragon | ok | 2026-11-28T17:49:39+00:00 | 2026-11-28T17:49:39+00:00 |  |
+| esportsbench | ok | 2026-11-28T17:49:40+00:00 | 2026-11-28T17:49:40+00:00 |  |
+| leaguepedia | ok | 2026-11-28T17:52:38+00:00 | 2026-11-28T17:52:38+00:00 |  |
+| leaguepedia_gcd | ok | 2026-11-28T17:50:47+00:00 | 2026-11-28T17:50:47+00:00 |  |
+| lolesports | ok | 2026-11-28T17:50:49+00:00 | 2026-11-28T17:50:49+00:00 |  |
 | lolwiki | falhou | 2026-11-16T04:02:31+00:00 |  | Module:ChampionData/data: api.php: HTTP 403 (<html lang="en"> <head> <title>Request blocked</title> <meta name="viewport" content="width=dev… |
-| meraki | ok | 2026-11-28T12:02:35+00:00 | 2026-11-28T12:02:35+00:00 |  |
-| oddspapi | parcial (com erros) | 2026-11-28T12:03:07+00:00 | 2026-11-28T12:03:07+00:00 | /historical-odds od184001743462132: 404 Client Error: Not Found for url: https://api.oddspapi.io/v4/historical-odds?fixtureId=od184001743462… |
-| oracles_elixir | falhou | 2026-11-28T12:02:43+00:00 | 2026-11-16T03:26:29+00:00 | 2026: download falhou, versão anterior mantida (drive-usercontent: recebeu HTML em vez de CSV ('Google Drive - Quota exceeded'); drive-uc: r… |
-| pandascore | ok | 2026-11-28T12:02:54+00:00 | 2026-11-28T12:02:54+00:00 |  |
-| pandaskill | ok | 2026-11-28T12:02:36+00:00 | 2026-11-28T12:02:36+00:00 |  |
-| riot_gcd | ok | 2026-11-28T12:02:43+00:00 | 2026-11-28T12:02:43+00:00 |  |
+| meraki | ok | 2026-11-28T17:49:42+00:00 | 2026-11-28T17:49:42+00:00 |  |
+| oddspapi | parcial (com erros) | 2026-11-28T17:50:12+00:00 | 2026-11-28T17:50:12+00:00 | /historical-odds od184001743462132: 404 Client Error: Not Found for url: https://api.oddspapi.io/v4/historical-odds?fixtureId=od184001743462… |
+| oracles_elixir | falhou | 2026-11-28T17:49:45+00:00 | 2026-11-16T03:26:29+00:00 | 2026: download falhou, versão anterior mantida (drive-usercontent: recebeu HTML em vez de CSV ('Google Drive - Quota exceeded'); drive-uc: r… |
+| pandascore | ok | 2026-11-28T17:50:09+00:00 | 2026-11-28T17:50:09+00:00 |  |
+| pandaskill | ok | 2026-11-28T17:49:39+00:00 | 2026-11-28T17:49:39+00:00 |  |
+| riot_gcd | ok | 2026-11-28T17:49:45+00:00 | 2026-11-28T17:49:45+00:00 |  |
 
 ## Tabelas
 
@@ -27,18 +27,18 @@ Gerado automaticamente em 2026-11-28 12:07 UTC a partir de `data/manifest/`. Nã
 | `raw.dd_items` | ddragon/items | 107,752 | 26 | única | — | 0.3 MB | 2026-11-18T11:58 |
 | `raw.ebench_matches` | esportsbench/matches | 163,653 | 6 | única | 2011-03-14 a 2026-09-30 | 1.9 MB | 2026-11-17T00:18 |
 | `raw.lp_leagues` | leaguepedia/Leagues | 194 | 6 | única | — | 0.0 MB | 2026-11-16T04:18 |
-| `raw.lp_matchschedule` | leaguepedia/MatchSchedule | 174,468 | 74 | 2011–2026 (16) | 2011-03-14 a 2026-12-19 | 9.5 MB | 2026-11-28T12:03 |
+| `raw.lp_matchschedule` | leaguepedia/MatchSchedule | 174,470 | 74 | 2011–2026 (16) | 2011-03-14 a 2026-12-19 | 9.5 MB | 2026-11-28T17:50 |
 | `raw.lp_picksandbanss7` | leaguepedia/PicksAndBansS7 | 99,156 | 55 | 2011–2026 (16) | — | 7.3 MB | 2026-11-28T12:04 |
 | `raw.lp_playerredirects` | leaguepedia/PlayerRedirects | 33,475 | 4 | única | — | 1.0 MB | 2026-11-23T21:43 |
 | `raw.lp_players` | leaguepedia/Players | 20,886 | 16 | única | — | 0.7 MB | 2026-11-23T21:42 |
-| `raw.lp_rosterchanges` | leaguepedia/RosterChanges | 280,731 | 24 | 2011–2026 (16) | 2011-01-01 a 2026-11-28 | 9.2 MB | 2026-11-28T12:06 |
+| `raw.lp_rosterchanges` | leaguepedia/RosterChanges | 280,735 | 24 | 2011–2026 (16) | 2011-01-01 a 2026-11-28 | 9.2 MB | 2026-11-28T17:52 |
 | `raw.lp_scoreboardgames` | leaguepedia/ScoreboardGames | 138,814 | 70 | 2011–2026 (16) | 2011-06-18 a 2026-11-27 | 18.4 MB | 2026-11-28T12:03 |
 | `raw.lp_scoreboardplayers` | leaguepedia/ScoreboardPlayers | 1,388,140 | 45 | 2011–2026 (16) | 2011-06-18 a 2026-11-27 | 92.9 MB | 2026-11-28T12:06 |
 | `raw.lp_teamredirects` | leaguepedia/TeamRedirects | 5,827 | 4 | única | — | 0.1 MB | 2026-11-23T21:41 |
 | `raw.lp_teams` | leaguepedia/Teams | 3,582 | 24 | única | — | 0.3 MB | 2026-11-23T21:41 |
-| `raw.lp_tournamentplayers` | leaguepedia/TournamentPlayers | 453,112 | 12 | 2011–2026 (16) | — | 6.9 MB | 2026-11-28T12:06 |
-| `raw.lp_tournamentresults` | leaguepedia/TournamentResults | 96,179 | 29 | 2011–2026 (16) | — | 4.4 MB | 2026-11-28T12:06 |
-| `raw.lp_tournaments` | leaguepedia/Tournaments | 10,603 | 34 | única | — | 0.8 MB | 2026-11-28T12:03 |
+| `raw.lp_tournamentplayers` | leaguepedia/TournamentPlayers | 453,133 | 12 | 2011–2026 (16) | — | 6.9 MB | 2026-11-28T17:52 |
+| `raw.lp_tournamentresults` | leaguepedia/TournamentResults | 96,179 | 29 | 2011–2026 (16) | — | 4.4 MB | 2026-11-28T17:52 |
+| `raw.lp_tournaments` | leaguepedia/Tournaments | 10,603 | 34 | única | — | 0.8 MB | 2026-11-28T17:50 |
 | `raw.lpgcd_pages` | leaguepedia_gcd/pages | 33,233 | 5 | única | 2018-02-20 a 2026-11-27 | 0.1 MB | 2026-11-28T12:03 |
 | `raw.lpgcd_snapshots` | leaguepedia_gcd/snapshots | 4,054,475 | 10 | 2018–2026 (9) | 2018-02-20 a 2026-11-27 | 3.9 MB | 2026-11-28T12:03 |
 | `raw.les_leagues` | lolesports/leagues | 51 | 7 | única | — | 0.0 MB | 2026-11-16T02:15 |
@@ -46,7 +46,7 @@ Gerado automaticamente em 2026-11-28 12:07 UTC a partir de `data/manifest/`. Nã
 | `raw.les_schedule` | lolesports/schedule | 11,441 | 21 | única | 2024-01-13 a 2026-11-14 | 0.2 MB | 2026-11-23T13:20 |
 | `raw.les_standings_matches` | lolesports/standings_matches | 33,929 | 19 | única | — | 0.4 MB | 2026-11-16T14:53 |
 | `raw.les_standings_rankings` | lolesports/standings_rankings | 4,457 | 14 | única | — | 0.1 MB | 2026-11-16T04:02 |
-| `raw.les_standings_raw` | lolesports/standings_raw | 514 | 3 | única | — | 0.7 MB | 2026-11-28T12:03 |
+| `raw.les_standings_raw` | lolesports/standings_raw | 514 | 3 | única | — | 0.7 MB | 2026-11-28T17:50 |
 | `raw.les_team_players` | lolesports/team_players | 5,436 | 5 | única | — | 0.1 MB | 2026-11-27T12:52 |
 | `raw.les_teams` | lolesports/teams | 1,587 | 7 | única | — | 0.1 MB | 2026-11-21T11:30 |
 | `raw.les_tournaments` | lolesports/tournaments | 520 | 6 | única | 2011-06-18 a 2027-07-31 | 0.0 MB | 2026-11-26T12:56 |
@@ -54,8 +54,8 @@ Gerado automaticamente em 2026-11-28 12:07 UTC a partir de `data/manifest/`. Nã
 | `raw.mk_champions_history` | meraki/champions_history | 171 | 153 | única | 2026-11-16 a 2026-11-16 | 0.7 MB | 2026-11-16T03:59 |
 | `raw.mk_items` | meraki/items | 320 | 42 | única | — | 0.1 MB | 2026-11-16T03:59 |
 | `raw.mk_items_history` | meraki/items_history | 320 | 43 | única | 2026-11-16 a 2026-11-16 | 0.1 MB | 2026-11-16T03:59 |
-| `raw.odds_calls` | oddspapi/calls | 33 | 5 | 2026-11 | — | 0.3 MB | 2026-11-28T12:03 |
-| `raw.odds_fixtures` | oddspapi/fixtures | 14 | 14 | única | 2026-11-14 a 2026-11-30 | 0.0 MB | 2026-11-28T12:02 |
+| `raw.odds_calls` | oddspapi/calls | 40 | 5 | 2026-11 | — | 0.3 MB | 2026-11-28T17:50 |
+| `raw.odds_fixtures` | oddspapi/fixtures | 14 | 14 | única | 2026-11-14 a 2026-11-30 | 0.0 MB | 2026-11-28T17:49 |
 | `raw.odds_historical_odds_raw` | oddspapi/historical_odds_raw | 1 | 4 | única | 2026-11-16 a 2026-11-16 | 0.3 MB | 2026-11-16T22:25 |
 | `raw.oe_matches` | oracles_elixir/matches | 1,237,800 | 165 | 2014–2026 (13) | 2014-01-14 a 2026-11-14 | 205.4 MB | 2026-11-16T02:15 |
 | `raw.ps_leagues` | pandascore/leagues | 136 | 5 | única | — | 0.1 MB | 2026-11-23T13:19 |
@@ -76,4 +76,4 @@ Gerado automaticamente em 2026-11-28 12:07 UTC a partir de `data/manifest/`. Nã
 | `raw.gcd_contracts_history` | riot_gcd/contracts_history | 2,014 | 14 | única | 2026-11-17 a 2026-11-26 | 0.1 MB | 2026-11-26T12:55 |
 | `raw.gcd_sheets` | riot_gcd/sheets | 5 | 3 | única | — | 0.0 MB | 2026-11-25T13:15 |
 
-**Total:** 11,549,381 linhas, 453.0 MB em Parquet.
+**Total:** 11,549,415 linhas, 453.0 MB em Parquet.
