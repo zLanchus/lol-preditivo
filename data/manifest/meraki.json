@@ -49,8 +49,8 @@
   },
   "source": "meraki",
   "status": {
-    "last_attempt": "2026-11-28T12:02:35+00:00",
-    "last_success": "2026-11-28T12:02:35+00:00",
+    "last_attempt": "2026-11-28T17:49:42+00:00",
+    "last_success": "2026-11-28T17:49:42+00:00",
     "message": "",
     "status": "ok"
   }
