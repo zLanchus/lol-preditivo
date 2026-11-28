@@ -7,8 +7,8 @@
     "2026: download falhou, versão anterior mantida (drive-usercontent: recebeu HTML em vez de CSV ('Google Drive - Quota exceeded'); drive-uc: recebeu HTML em vez de CSV ('Google Drive - Quota exceeded'); s3-antigo: HTTP 404)"
   ],
   "incomplete": false,
-  "started_at": "2026-11-28T12:02:40+00:00",
-  "finished_at": "2026-11-28T12:02:43+00:00",
+  "started_at": "2026-11-28T17:49:42+00:00",
+  "finished_at": "2026-11-28T17:49:45+00:00",
   "minutes": 0.1,
   "full": false,
   "years": null,

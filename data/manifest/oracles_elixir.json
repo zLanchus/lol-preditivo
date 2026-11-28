@@ -161,7 +161,7 @@
   },
   "source": "oracles_elixir",
   "status": {
-    "last_attempt": "2026-11-28T12:02:43+00:00",
+    "last_attempt": "2026-11-28T17:49:45+00:00",
     "last_success": "2026-11-16T03:26:29+00:00",
     "message": "2026: download falhou, versão anterior mantida (drive-usercontent: recebeu HTML em vez de CSV ('Google Drive - Quota exceeded'); drive-uc: recebeu HTML em vez de CSV ('Google Drive - Quota exceeded'); s3-antigo: HTTP 404)",
     "status": "failed"
